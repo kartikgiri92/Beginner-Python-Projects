@@ -7,4 +7,8 @@ Framework - Django
 Python Installation  
     https://www.python.org/downloads/
     
-PyQt Installation
+PyQt5 Installation  
+    https://www.riverbankcomputing.com/software/pyqt/download5  
+   
+Django Framework   
+    https://www.djangoproject.com/download/
