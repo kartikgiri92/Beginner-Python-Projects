@@ -1,0 +1,9 @@
+﻿* A data structure is an arrangement of data, either in the computer's memory or on the disk storage. 
+
+* Some common examples of data structures include arrays, linked lists,queues, stacks, binary trees, and hash tables.
+
+* Data structures are widely applied in areas such as compiler design, operating system, statistical analysis package, DBMS, numerical analysis, simulation, artificial intelligence, and graphics.
+
+* The choice of a particular data model depends on two considerations. First, it must be rich enough in structure to mirror the actual relationships of the data in real world. On the other hand, the structure should be simple enough that one can effectively process the data when necessary.
+
+* Algorithms are used to manipulate the data contained in these data structures, as in searching and sorting. While working with data structures, algorithms are used to insert new data, search for a specified item, and delete a specific item.
