@@ -5,4 +5,4 @@ Register the apps into setting.py and also make url's for the apps.
   
   
   
-I know this readme sucks, this is the best I can do at 2:40 in the night. Will update soon.
+I know this readme sucks. Will update soon.
