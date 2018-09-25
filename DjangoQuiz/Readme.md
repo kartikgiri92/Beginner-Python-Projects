@@ -18,7 +18,7 @@ Quick start
 
 2. Include the appname URLconf in your project urls.py like this::
 
-    path('appname/', include('users.urls')),
+    path('appname/', include('appname.urls')),
 
 3. Run `python manage.py migrate` to create the app models.
 
