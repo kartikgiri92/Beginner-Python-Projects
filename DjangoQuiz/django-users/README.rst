@@ -18,9 +18,9 @@ Quick start
 
     path('users/', include('users.urls')),
 
-3. Run `python manage.py migrate` to create the quiz models.
+3. Run `python manage.py migrate` to create the users models.
 
 4. Start the development server and visit http://127.0.0.1:8000/admin/
-   to create a poll (you'll need the Admin app enabled).
+   to create a user and score (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/HomePage/ to participate in the quiz.
