@@ -16,14 +16,14 @@ Quick start
         'appname',
     ]
 
-2. Include the polls URLconf in your project urls.py like this::
+2. Include the appname URLconf in your project urls.py like this::
 
     path('appname/', include('users.urls')),
 
-3. Run `python manage.py migrate` to create the quiz models.
+3. Run `python manage.py migrate` to create the app models.
 
 4. Start the development server and visit http://127.0.0.1:8000/admin/
-   to create a poll (you'll need the Admin app enabled).
+   to add data (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/HomePage/ to participate in the quiz.
 
