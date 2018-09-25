@@ -1,6 +1,4 @@
-=====
 QUIZ APP
-=====
 
 The following is a django Quiz project.  
 'users' app handles all the users data, scoring and authentication system.   
@@ -8,6 +6,7 @@ The following is a django Quiz project.
 
 Quick start
 -----------
+0. Download the two apps into your manage.py folder.
 
 1. Add "appname" to your INSTALLED_APPS setting like this::
 
