@@ -1,6 +1,6 @@
 QUIZ APP
 
-The following is a django Quiz project.It contains two apps.      
+The following is a django Quiz project. It contains two apps.      
 'users' app handles all the users data, scoring and authentication system.   
 'quiz' app handles the Quizes and templates .  
 
