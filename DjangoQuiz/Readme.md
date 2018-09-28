@@ -25,6 +25,6 @@ Quick start
 4. Start the development server and visit http://127.0.0.1:8000/admin/
    to add data (you'll need the Admin app enabled).
 
-5. Visit http://127.0.0.1:8000/HomePage/ to participate in the quiz.
+5. Visit http://127.0.0.1:8000/users/loginpage/ to participate in the quiz.
 
 Refer here for the project video - https://www.linkedin.com/feed/update/activity:6450099091820118016/
