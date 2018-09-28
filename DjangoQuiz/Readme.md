@@ -8,17 +8,17 @@ Quick start
 -----------
 0. Copy and paste the two apps into the project folder(same as that of manage.py).  
 
-1. Add appnames to your INSTALLED_APPS setting like this::
-
-    INSTALLED_APPS = [
-        ...
-        'quiz',
-        'users',
-    ]
-
-2. Include the appname URLconf in your project urls.py like this::
-    path('HomePage/', include('quiz.urls')),
-    path('users/', include('users.urls')),
+1. Add appnames to your INSTALLED_APPS setting like this::  
+  
+    INSTALLED_APPS = [  
+        ...  
+        'quiz',  
+        'users',  
+    ]  
+  
+2. Include the appname URLconf in your project urls.py like this::  
+    path('HomePage/', include('quiz.urls')),  
+    path('users/', include('users.urls')),  
 
 3. Run **python manage.py makemigrations** and **python manage.py migrate** to create the app models.
 
