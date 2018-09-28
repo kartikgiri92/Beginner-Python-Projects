@@ -27,3 +27,4 @@ Quick start
 
 5. Visit http://127.0.0.1:8000/HomePage/ to participate in the quiz.
 
+Refer here for the video - https://www.linkedin.com/feed/update/activity:6450099091820118016/
